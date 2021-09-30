@@ -1,0 +1,21 @@
+.displayscreen{
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 1000%;
+    text-align: center;
+    height: 200px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+button{
+    width: 100%;
+    font-size: 800%;
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: rgb(128, 128, 128);
+}
